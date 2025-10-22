@@ -1,0 +1,1 @@
+Bu dosya, temel matematiksel işlemleri uygulayan bir Java programıdır. Program sırasıyla 1’den 9’a kadar olan sayıların toplamını bulur, verilen matematiksel ifadeyi hesaplayıp sonucu dört ondalık basamakla ekrana yazar ve son olarak 5 faktöriyelinin (5!) ara çarpım adımlarını göstererek sonucunu hesaplar.
