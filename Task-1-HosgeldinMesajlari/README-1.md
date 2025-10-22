@@ -1,0 +1,1 @@
+Bu dosya üç bölüm içerir: (1) programın başında üç farklı karşılama mesajı yazdırılır; (2) aynı zamanda "Java'ya Hoş Geldiniz" mesajı bir döngü ile beş kez tekrar edilir; (3) son bölümde basit ASCII karakterlerinden oluşan bir "JAVA" deseni ekrana çizilir. Program hem döngü kullanımını hem de konsol çıktısı biçimlendirmesini gösterir.
